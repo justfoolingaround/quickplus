@@ -1,5 +1,5 @@
-# QuickStar
+# QuickPlus
 
-best plugin ever
+The based needs an indication.
 
-it deserves a star
+Just an edit of [powercord-community/quickstar](https://github.com/powercord-community/quickstar).

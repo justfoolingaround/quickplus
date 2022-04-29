@@ -1,7 +1,7 @@
 {
-  "name": "QuickStar",
+  "name": "QuickPlus",
   "version": "1.1.1",
-  "description": "Adds a star button to messages",
-  "author": "Bowser65",
+  "description": "Adds a plus button to messages",
+  "author": "justfoolingaround",
   "license": "OSL-3.0"
 }
